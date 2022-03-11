@@ -1,0 +1,4 @@
+ Welcome to Subnet_Pinger!
+Please enter the network you want to test: 
+Example: <192.168.1.0/24>
+Enter the network: 
